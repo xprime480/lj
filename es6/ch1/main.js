@@ -23,7 +23,7 @@ $(document).ready(function () {
 //    };
 
     var c = Shape.Circle(200, 200, 80);
-    c.fillColor = 'black';
+    c.fillColor = 'purple';
     
     var text = new PointText(200, 200);
     text.justification = 'center';
